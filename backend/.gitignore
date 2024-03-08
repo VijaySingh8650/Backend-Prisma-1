@@ -1,0 +1,4 @@
+node_modules
+.env
+dist
+growtomation-password1.pem
